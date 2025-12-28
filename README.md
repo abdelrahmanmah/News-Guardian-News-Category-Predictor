@@ -32,7 +32,7 @@ The project consists of a comprehensive Jupyter Notebook for model development a
 ## 📂 Project Structure
 
 ```
-├── BBC_news_data/               # Raw dataset
+├── bbc_news_text_complexity_summarization.csv               # Raw dataset
 ├── News_Category_Prediction.ipynb # Database analysis, EDA, and Model Training
 ├── app.py                       # Streamlit Application Entry Point
 ├── requirement.txt              # Project dependencies
