@@ -35,7 +35,6 @@ The project consists of a comprehensive Jupyter Notebook for model development a
 ├── BBC_news_data/               # Raw dataset
 ├── News_Category_Prediction.ipynb # Database analysis, EDA, and Model Training
 ├── app.py                       # Streamlit Application Entry Point
-├── generate_models.py           # Script to regenerate model artifacts
 ├── requirement.txt              # Project dependencies
 └── README.md                    # Project Documentation
 ```
